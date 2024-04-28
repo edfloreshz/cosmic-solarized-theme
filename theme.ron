@@ -1,0 +1,13 @@
+(
+    name: "Solarized",
+    light: (
+        name: "Solarized Light",
+        path: "Solarized-Light.ron",
+        wallpaper: "",
+    ),
+    dark: (
+        name: "Solarized Dark",
+        path: "Solarized-Dark.ron",
+        wallpaper: "",
+    ),
+)
